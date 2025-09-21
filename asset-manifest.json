@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/micro-habit-builder/static/css/main.654ab042.css",
+    "main.js": "/micro-habit-builder/static/js/main.c79ca68f.js",
+    "index.html": "/micro-habit-builder/index.html",
+    "main.654ab042.css.map": "/micro-habit-builder/static/css/main.654ab042.css.map",
+    "main.c79ca68f.js.map": "/micro-habit-builder/static/js/main.c79ca68f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.654ab042.css",
+    "static/js/main.c79ca68f.js"
+  ]
+}
